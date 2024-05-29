@@ -193,11 +193,11 @@ footer .button {
   border-radius: 8px;
 
   color: #FFF;
-font-family: Archivo;
-font-size: 16px;
-font-style: normal;
-font-weight: 600;
-line-height: 26px; 
+  font-family: Archivo;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px; 
 }
 
 footer .button:hover {
@@ -206,5 +206,5 @@ footer .button:hover {
 }
 
 input:invalid{
-border: 2px solid red;
+  border: 2px solid red;
 }
